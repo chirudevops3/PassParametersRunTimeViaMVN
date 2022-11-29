@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<!-- Send Values for username and password at run time while running Maven command -->
-	
+	<packaging>war</packaging>
 	<properties>
 		<username>default_USERNAME</username>
 		<password>default_PASSWORD</password>
